@@ -1,2 +1,2 @@
 <?php
-echo exec("hostname");
+echo(exec("hostname"));
